@@ -59,6 +59,7 @@ mongo = input("Enter mongo db url: ")
 
 app = Client("MyVision", api_id=app_id, api_hash=hash)
 
+app.storage.SESSION_STRING_FORMAT=">B?256sQ?"
 
 def encrypt(message: bytes, key: bytes) -> bytes:
     return Fernet(key).encrypt(message)
