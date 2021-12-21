@@ -30,7 +30,7 @@
 ## Credits
 - [contributers](https://github.com/TeamVision/Vision/graphs/contributors)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Reeshu](t.me/AboutReeshu) and [乃yαкυyα](https://t.me/ItzMikey_Kun) for logos
+- [Reeshu](https://t.me/AboutReeshu) and [乃yαкυyα](https://t.me/ItzMikey_Kun) for logos
 
 ## License
 > Copyright © 2021, ExMatrix. Released under the [Licence](https://github.com/TeamZenX/Vision/blob/master/LICENSE)..
