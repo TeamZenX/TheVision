@@ -1,4 +1,4 @@
-### Host on Server/Vps/LocalDevice
+### Host on Server/Vps/LocalDevice [For Devs]
 
 
 - Create A local.env file
@@ -25,7 +25,7 @@ https://git-scm.com/download/linux
 - Clone the repository
 
 ```
-git clone https://github.com/TeamZenX/Vision.git
+git clone https://yourgitusername:access_token@github.com/TeamZenX/Vision.git
 
 ```
 
