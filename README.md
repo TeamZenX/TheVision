@@ -22,7 +22,10 @@
 
 ## Hosting
 
-- - [![Heroku](https://img.shields.io/badge/Vison-Deploy-blueviolet)](https://visionub.tech/deploy.html)
+- [![Heroku](https://img.shields.io/badge/Vison-Deploy-blueviolet)](https://visionub.tech/deploy.html)
+
+
+- [Others](/docs/runvps.md)
 
 ## Credits
 - [contributers](https://github.com/TeamVision/Vision/graphs/contributors)
