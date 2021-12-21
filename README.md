@@ -5,7 +5,7 @@
 
 ## Support
 <a href="https://t.me/VisionUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/VisionSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Vision_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Variables
 ```
@@ -21,7 +21,8 @@
 - [![Documentation](https://img.shields.io/badge/Documentation-Vison-purple)](https://github.com/TeamZenX/Vision/tree/master/docs)
 
 ## Hosting
-- Yaha daal dena hosting services
+
+- - [![Heroku](https://img.shields.io/badge/Vison-Deploy-blueviolet)](https://visionub.tech/deploy.html)
 
 ## Credits
 - [contributers](https://github.com/TeamVision/Vision/graphs/contributors)
