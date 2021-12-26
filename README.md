@@ -18,7 +18,7 @@
 ```
 
 ## Documentation
-- [![Documentation](https://img.shields.io/badge/Documentation-Vison-purple)](https://github.com/TeamZenX/Vision/tree/master/docs)
+- [![Documentation](https://img.shields.io/badge/Documentation-Vison-purple)](https://github.com/TeamZenX/TheVision/tree/master/docs)
 
 ## Tutorial
 
