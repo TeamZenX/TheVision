@@ -20,6 +20,11 @@
 ## Documentation
 - [![Documentation](https://img.shields.io/badge/Documentation-Vison-purple)](https://github.com/TeamZenX/Vision/tree/master/docs)
 
+## Tutorial
+
+- [Here](https://youtu.be/Ml7vZVcnoDM)
+
+
 ## Hosting
 
 - [![Heroku](https://img.shields.io/badge/Vison-Deploy-blueviolet)](https://visionub.tech/deploy.html)
