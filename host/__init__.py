@@ -46,7 +46,7 @@ class Machine(Python):
         version = self.version()
 
         host = self.host()
-        if not version > 3.8:
+        if version <= 3.8:
 
             logger.info("Vision Only Works With python version 3.8 or later")
             if host.lower() in ("heroku", "railway"):
@@ -58,11 +58,10 @@ class Machine(Python):
                     a = input(
                         "Do you want to install? python3.8 or later (q to exit):  ",
                     )
-                    if a.lower() == "q":
-                        print("\nProcces Killed")
-                        raise KeyboardInterrupt
-                    else:
+                    if a.lower() != "q":
                         break
+                    print("\nProcces Killed")
+                    raise KeyboardInterrupt
                 host = platform.system()
                 print("Installing Python.....")
                 if host.lower() in ("windows"):
